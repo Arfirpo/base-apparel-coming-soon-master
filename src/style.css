@@ -31,7 +31,7 @@ body{
 }
 .logo-container{
     width: 6.25rem;
-    margin: 30px;
+    margin: 1.875rem;
 }
 .cover-container{
     margin-bottom: 3.75rem;
@@ -68,9 +68,8 @@ body{
     height: 100%;
     border-radius: 3.125rem;
     padding-left: 1rem;
-    border: 1px solid var(--DesaturatedRed);
+    border: .0625rem solid var(--DesaturatedRed);
     outline: none;
-    /* background-image: url(./images/icon-error.svg); */
     background-repeat: no-repeat;
     background-position: 13.125rem;
 }
@@ -132,18 +131,18 @@ body{
     .content__paragraph{
         text-align: left;
         font-size: 1rem;
-        margin: 0 0 40px;
+        margin: 0 0 2.5rem;
     }
     .content__form{
         width: 100%;
         height: 3.75rem;
     }
     .content__form-email-address{
-        background-position: 300px;
+        background-position: 18.75rem;
     }
     .content__form-button{
         height: 100%;
-        width: 100px;
+        width: 6.25rem;
         padding: 1.25rem 2.625rem;
     }
 }
