@@ -73,7 +73,6 @@ In the future I would like to reinforce the concepts learned with this challenge
 - [Linkedin](https://www.linkedin.com/in/agustin-rodrigo-firpo-0aa86697/)
 - [@Arfirpo](https://www.frontendmentor.io/profile/Arfirpo)
 
-
 ## Acknowledgments
 
 - [COdingTube](https://www.youtube.com/CodingTube) - This YouTube channel is very recomenadable to learn web development and was very useful for me in the realization of this challenge.
