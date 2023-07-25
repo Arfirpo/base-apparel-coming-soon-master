@@ -76,5 +76,4 @@ In the future I would like to reinforce the concepts learned with this challenge
 
 ## Acknowledgments
 
-- [COdingTube](https://www.youtube.com/CodingTube)
-This youtube channel is very recomenadable to learn web development and I was very useful for the realization of this challenge.
+- [COdingTube](https://www.youtube.com/CodingTube) - This YouTube channel is very recomenadable to learn web development and was very useful for me in the realization of this challenge.
