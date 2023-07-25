@@ -74,6 +74,7 @@ body{
     padding-left: 1rem;
     border: .0625rem solid var(--DesaturatedRed);
     outline: none;
+    background-color: var(--gradient2);
     background-repeat: no-repeat;
     background-position: 13.125rem;
 }
